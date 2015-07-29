@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/coverage/lcov-report/prettify-compiled.js" />
+        <item url="file://$PROJECT_DIR$/coverage/lcov-report/sorter-compiled.js" />
+        <item url="file://$PROJECT_DIR$/lib/index-compiled.js" />
+        <item url="file://$PROJECT_DIR$/test/index-compiled.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/coverage/lcov-report/prettify-compiled.js" />
+      <root url="file://$PROJECT_DIR$/coverage/lcov-report/sorter-compiled.js" />
+      <root url="file://$PROJECT_DIR$/lib/index-compiled.js" />
+      <root url="file://$PROJECT_DIR$/test/index-compiled.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
